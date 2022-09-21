@@ -1,0 +1,21 @@
+.footer {
+  background-color: #2b2bba;
+  color: white;
+  /* width: 100%; */
+}
+.footer-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* margin: 50px; */
+  padding: 60px;
+}
+
+.footer-header {
+  margin-bottom: 10px;
+}
+.footer-item {
+  list-style: none;
+  padding: 10px;
+  font-weight: 80;
+}

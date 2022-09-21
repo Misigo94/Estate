@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 0px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.logo {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.started {
+  color: white;
+  background-color: #2b2bba;
+  padding: 6.5px 15px;
+  border-radius: 5px;
+  border: none;
+}

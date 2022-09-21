@@ -1,0 +1,39 @@
+.hero {
+  display: flex;
+  margin-top: 50px;
+}
+
+.hero-image {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.hero-title {
+  font-size: xxx-large;
+  margin-bottom: 20px;
+  font-size: 65px;
+  color: #2b2bba;
+  font-weight: 90;
+  margin-left: 120px;
+}
+
+.hero-text {
+  font-size: xx-large;
+  margin-bottom: 20px;
+}
+
+.right {
+  margin-left: 200px;
+}
+
+.hero-image {
+  border-radius: 0px 100px 0px 100px;
+}
+
+.learn {
+  color: white;
+  background-color: #2b2bba;
+  padding: 6.5px 15px;
+  border-radius: 5px;
+  border: none;
+}
